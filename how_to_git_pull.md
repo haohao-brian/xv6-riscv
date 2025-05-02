@@ -1,5 +1,5 @@
 ## how to git pull
-first define `origin` and repo
+first define `origin` and repo (if already exist then use 'set-url' instead)
 ```
 git remote add origin git@github.com:haohao-brian/xv6-riscv
 ```
